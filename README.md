@@ -1,2 +1,1 @@
-# hello-world
-First Repository
+Deneme amaçlı ilk repository oluşturuldu.
